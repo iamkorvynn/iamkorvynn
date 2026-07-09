@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4C1D95&height=220&section=header&text=Hi%20There%2C%20I'm%20Numaan&fontSize=42&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Building%20stuff%20and%20figuring%20things%20out%20%7C%20Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3F46,50:71717A,100:18181B&height=220&section=header&text=Hi%20There%2C%20I'm%20Numaan&fontSize=42&fontColor=F4F4F5&animation=fadeIn&fontAlignY=38&desc=Building%20stuff%20and%20figuring%20things%20out%20%7C%20Full%20Stack%20%2B%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/iamkorvynn">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Builder+of+Weird+Side+Projects;Open-Source+Contributor&font=Fira+Code&center=true&width=600&height=45&color=A78BFA&vCenter=true&size=24&pause=1500&duration=2500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI%2FML+Enthusiast;Builder+of+Weird+Side+Projects;Open-Source+Contributor&font=Fira+Code&center=true&width=600&height=45&color=D4D4D8&vCenter=true&size=24&pause=1500&duration=2500" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF)
-![Location](https://img.shields.io/badge/📍-Vasai%2C%20Maharashtra%2C%20India-4C1D95?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%20Engineering-52525B?style=for-the-badge&logo=googlescholar&logoColor=F4F4F5)
+![Location](https://img.shields.io/badge/📍-Vasai%2C%20Maharashtra%2C%20India-3F3F46?style=for-the-badge)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://korvyn-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numaan-bin-husain/)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numaanbinhusain@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkorvynn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-52525B?style=for-the-badge&logo=vercel&logoColor=white)](https://korvyn-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numaan-bin-husain/)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numaanbinhusain@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-71717A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkorvynn)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamkorvynn&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/iamkorvynn?style=for-the-badge&color=7C3AED&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/iamkorvynn?style=for-the-badge&color=A78BFA&labelColor=1e1b2e)
+![Profile Views](https://komarev.com/ghpvc/?username=iamkorvynn&style=for-the-badge&color=52525B&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/iamkorvynn?style=for-the-badge&color=71717A&labelColor=1e1b2e)
+![Stars](https://img.shields.io/github/stars/iamkorvynn?style=for-the-badge&color=A1A1AA&labelColor=1e1b2e)
 
 </div>
 
@@ -176,10 +176,10 @@ Serves as the living front door to my work — updated alongside new projects as
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=iamkorvynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=iamkorvynn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=iamkorvynn&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E4E4E7&icon_color=A1A1AA&text_color=D4D4D8" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=iamkorvynn&theme=dark&hide_border=true&background=0D1117&stroke=71717A&ring=A1A1AA&fire=D4D4D8&currStreakLabel=E4E4E7" width="49%"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E4E4E7&text_color=D4D4D8" width="50%"/>
 
 </div>
 
@@ -189,7 +189,7 @@ Serves as the living front door to my work — updated alongside new projects as
 
 <div align="center">
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=iamkorvynn&theme=discord&no-frame=true&column=7&margin-w=10&row=1" width="100%"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=iamkorvynn&theme=gitdimmed&no-frame=true&column=7&margin-w=10&row=1" width="100%"/>
 
 </div>
 
@@ -199,7 +199,7 @@ Serves as the living front door to my work — updated alongside new projects as
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkorvynn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkorvynn&theme=github-dark&hide_border=true&bg_color=0D1117&color=A1A1AA&line=71717A&point=E4E4E7" width="100%"/>
 
 </div>
 
@@ -242,10 +242,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numaanbinhusain@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/numaan-bin-husain)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkorvynn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://korvyn-dev.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numaanbinhusain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/numaan-bin-husain)
+[![GitHub](https://img.shields.io/badge/GitHub-52525B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkorvynn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-71717A?style=for-the-badge&logo=vercel&logoColor=white)](https://korvyn-dev.vercel.app)
 
 </div>
 
@@ -255,6 +255,6 @@ Open To:
 
 *"Code is poetry written in logic."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:6D28D9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,50:71717A,100:3F3F46&height=120&section=footer" width="100%"/>
 
 </div>
