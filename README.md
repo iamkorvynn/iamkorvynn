@@ -28,7 +28,30 @@
 
 ---
 
-## 🪐 About Me
+### 🖥️ SYSTEM TERMINAL // PROFILE DIAGNOSTICS
+
+```text
+                  .::::::::..                 Numaan@iamkorvynn
+              .::::::::::::::::.              -----------------
+            .::::::::::::::::::::.            OS: Windows 11 / Linux (WSL2)
+           ::::::::::::::::::::::::           Host: St. John College of Eng. & Mgmt.
+          ::::::::::::::::::::::::::          Kernel: Academic Year 2026 (Sem 2)
+          ::::::::::      ::::::::::          Uptime: Coding 18h / day
+          ::::::::          ::::::::          Shell: PowerShell / Zsh
+          :::::::            :::::::          Editor: Cursor / Neovim
+          :::::::            :::::::          Focus: Full-Stack & AI Orchestration
+          ::::::::          ::::::::          Core: LangChain, Next.js, Fastify
+          ::::::::::      ::::::::::          Status: Building the future...
+          ::::::::::::::::::::::::::
+           ::::::::::::::::::::::::
+            '::::::::::::::::::::'
+              '::::::::::::::::'
+                  '::::::::''
+```
+
+---
+
+### 🪐 ABOUT ME // CORE THREAD
 
 First-year **B.Tech AI & ML** student at St. John College of Engineering & Management (Mumbai University), building full-stack applications, AI-powered systems, and startup-style digital products. I run an independent freelance web development practice on the side, and I care a lot about scalable architecture, cinematic UI/UX, and shipping fast with AI-assisted workflows.
 
@@ -42,162 +65,171 @@ First-year **B.Tech AI & ML** student at St. John College of Engineering & Manag
 
 ---
 
-## 🧠 Tech Stack
+### 🧠 TECH STACK // ENGINE SPECIFICATIONS
 
-**Languages**
-![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)
+```text
+[ Languages ]
+```
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
+  </a>
+</p>
 
-**Frontend**
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Vite](https://skillicons.dev/icons?i=vite) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+```text
+[ Frontend Systems ]
+```
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+  </a>
+</p>
 
-**Backend & Databases**
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Redis](https://skillicons.dev/icons?i=redis) ![SQLite](https://skillicons.dev/icons?i=sqlite)
+```text
+[ Backend & Databases ]
+```
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,supabase,firebase,redis,sqlite" />
+  </a>
+</p>
 
-**Cloud, DevOps & Tooling**
-![Vercel](https://skillicons.dev/icons?i=vercel) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Figma](https://skillicons.dev/icons?i=figma) ![Blender](https://skillicons.dev/icons?i=blender)
+```text
+[ Cloud, DevOps & Tooling ]
+```
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,docker,git,figma,blender" />
+  </a>
+</p>
 
 ---
 
-## 🤖 AI / ML Focus
+### 🤖 AI / ML Focus // DIRECTIVE MATRIX
 
 <div align="center">
 
-| Area | Details |
+| System | Protocol / Details |
 |---|---|
-| AI Orchestration | LangChain, LangGraph, Gemini AI, Groq — used in production in ExplainMyCode |
-| Explainable AI | SHAP/LIME, TRIPOD-compliant validation — applied in published research |
-| Research | Co-authored paper on multimodal ML for mental health relapse prediction (EHR, biomarkers, NLP, digital behavioural data) |
-| Model Architectures | Ensemble methods — XGBoost, Random Forests, Deep Neural Networks |
-| Emerging Interests | Federated learning, scalable clinical/production deployment |
+| **AI Orchestration** | LangChain, LangGraph, Gemini AI, Groq — production deployment in *ExplainMyCode* |
+| **Explainable AI** | SHAP/LIME, TRIPOD-compliant validation — applied in published research |
+| **Research Output** | Co-authored paper on multimodal ML for mental health relapse prediction (EHR, NLP, digital behaviour) |
+| **Model Architectures** | Ensemble methods — XGBoost, Random Forests, Deep Neural Networks |
+| **Emerging Fields** | Federated learning, scalable clinical/production deployment |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 📁 PROJECT ARCHIVES // MODULE REGISTRY
+
+> *Select a module to decrypt system logs.*
 
 <details>
-<summary><b>🔹 Synq — Secure Team Messenger Platform</b></summary>
+<summary><b>📂 MODULE 01: SYNQ [SECURE_TEAM_MESSENGER]</b></summary>
 <br/>
 
 A premium, highly secure team messenger prototype built as a TypeScript monorepo, with a cinematic Next.js PWA frontend and a Fastify-based real-time control plane.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 |---|---|---|---|---|---|
-| Next.js, Fastify, Postgres (Neon), WebSockets, Docker/Caddy | Monorepo with web, API, protocol & crypto packages | Realtime websocket events, offline message replay | Signed prekeys, ratcheted sessions, encrypted attachment sealing | Production-oriented self-hosted deploy stack with HTTPS, health checks & migrations | [View Repo](https://github.com/iamkorvynn/Synq) |
+| Next.js, Fastify, Postgres, WebSockets, Docker | Monorepo with web, API, protocol & crypto packages | Realtime websocket events, offline message replay | Signed prekeys, ratcheted sessions, encrypted attachment sealing | Production-oriented self-hosted deploy stack | [Decrypted Repo](https://github.com/iamkorvynn/Synq) |
 
-Built with a device-trust and session-approval flow, end-to-end message sealing utilities, and encrypted attachment staging that only allows send after upload + finalize — designed to close the gap toward a true consumer-grade secure messenger.
-
+*Features device-trust and session-approval flow, end-to-end message sealing utilities, and encrypted attachment staging that only allows send after upload + finalize.*
 </details>
 
 <details>
-<summary><b>🔹 J.A.R.V.I.S Command Core — Local AI Desktop Assistant</b></summary>
+<summary><b>📂 MODULE 02: J.A.R.V.I.S COMMAND CORE [LOCAL_AI_ASSISTANT]</b></summary>
 <br/>
 
 An immersive, Stark-style 3D command room backed by a real local desktop bridge — combining a Three.js visual experience with hands-free voice control and OS-level automation.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 |---|---|---|---|---|---|
-| Three.js, JavaScript, Web Speech API, Node.js, local Ollama integration | Fully local, single-machine desktop bridge | Real-time voice commands with spoken responses | Local-only desktop bridge (no cloud dependency) | Automates app launching, clipboard, screenshots, and file search via voice | [View Repo](https://github.com/iamkorvynn/J.A.R.V.I.S) |
+| Three.js, JS, Web Speech API, Node.js, local Ollama | Fully local, single-machine desktop bridge | Real-time voice commands with spoken responses | Local-only desktop bridge (no cloud dependency) | Automates app launching, clipboard, screenshots, and file search | [Decrypted Repo](https://github.com/iamkorvynn/J.A.R.V.I.S) |
 
-Features an animated 3D arc reactor, a revolving suit display, and a Windows automation bridge for launching apps, reading/writing the clipboard, and taking screenshots — with optional local LLM prompting through Ollama.
-
+*Features an animated 3D arc reactor, revolving suit display, and a Windows automation bridge.*
 </details>
 
 <details>
-<summary><b>🔹 explainmycode — Code Explanation Tool</b></summary>
+<summary><b>📂 MODULE 03: EXPLAINMYCODE [AI_IDE_EXPLAINER]</b></summary>
 <br/>
 
 A developer utility that takes in source code and produces clear, human-readable explanations to speed up code review and onboarding.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 |---|---|---|---|---|---|
-| TypeScript, Next.js | Single-user developer tool | Fast inline explanation generation | N/A (client-side tool) | Speeds up reading unfamiliar codebases | [View Repo](https://github.com/iamkorvynn/explainmycode) |
-
-Built as a lightweight tool to make dense or unfamiliar code easier to parse quickly, useful for onboarding onto new codebases or reviewing PRs.
-
+| TypeScript, Next.js | Single-user developer tool | Fast inline explanation generation | N/A (client-side tool) | Speeds up reading unfamiliar codebases | [Decrypted Repo](https://github.com/iamkorvynn/explainmycode) |
 </details>
 
 <details>
-<summary><b>🔹 Pure-Plan-Focus — Life Command Center Dashboard</b></summary>
+<summary><b>📂 MODULE 04: PURE-PLAN-FOCUS [LIFE_COMMAND_CENTER]</b></summary>
 <br/>
 
 A minimalist yet powerful productivity dashboard that unifies task management, health tracking, and scheduling into one cohesive "life command center."
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 |---|---|---|---|---|---|
-| React, Vite, TypeScript, Tailwind, Radix/Shadcn UI, TanStack Query, Supabase | Full dashboard with tasks, calendar, habits, workouts, meals & music widgets | Client-side data caching via TanStack Query | Supabase Auth with Row Level Security (RLS) | Consolidates multiple daily-routine tools into a single glassmorphic UI | [View Repo](https://github.com/iamkorvynn/pure-plan-focus-main) |
-
-Documented with a dedicated architecture guide, database schema, and feature breakdown, and tested end-to-end with Vitest and Playwright.
-
+| React, Vite, TS, Tailwind, Radix, TanStack Query, Supabase | Full dashboard with tasks, calendar, habits, workouts & music widgets | Client-side data caching via TanStack Query | Supabase Auth with Row Level Security (RLS) | Consolidates routine tools into a glassmorphic UI | [Decrypted Repo](https://github.com/iamkorvynn/pure-plan-focus-main) |
 </details>
 
 <details>
-<summary><b>🔹 korvyn.io — Personal Portfolio Site</b></summary>
+<summary><b>📂 MODULE 05: KORVYN.IO [PORTFOLIO_HUB]</b></summary>
 <br/>
 
 The Next.js/TypeScript codebase behind my personal portfolio, showcasing projects and writing in a clean, dark-themed layout.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 |---|---|---|---|---|---|
-| Next.js, TypeScript, CSS | Personal site, deployed on Vercel | Statically optimized Next.js pages | N/A (static personal site) | Central hub for projects, resume & contact info | [View Repo](https://github.com/iamkorvynn/korvyn.io) |
-
-Serves as the living front door to my work — updated alongside new projects as they ship.
-
+| Next.js, TypeScript, CSS | Personal site, deployed on Vercel | Statically optimized Next.js pages | N/A | Central hub for projects, resume & contact info | [Decrypted Repo](https://github.com/iamkorvynn/korvyn.io) |
 </details>
 
 ---
 
-## 🏆 Achievements
+### 🏆 SYSTEM HIGHLIGHTS // HIGH SCORES
 
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🚀 MegaHack 6.0 — National Hackathon | Built & deployed ExplainMyCode solo in 24 hours, SJCEM · Mar 2026 |
-| 📝 Published Research | Co-authored "ML Approaches for Mental Health Relapse Prediction," Journal of Neurological, Psychiatric and Mental Health Nursing · Apr 2026 |
-| 🎤 Anveshnam Paper Presentation | Presented research at inter-collegiate paper presentation, SJCEM · 2026 |
-| 📈 SGPA 8.8/10 | Semester 1, B.Tech AI & ML |
-
-</div>
+- `[ 🥇 ]` **MegaHack 6.0 (National Hackathon)** ── Built & deployed *ExplainMyCode* solo in 24 hours (SJCEM · Mar 2026)
+- `[ 📝 ]` **Published Research** ── Co-authored *"ML Approaches for Mental Health Relapse Prediction"* (Journal of Neurological & Mental Health Nursing · Apr 2026)
+- `[ 🎤 ]` **Anveshnam 2026** ── Presented research paper at inter-collegiate level
+- `[ 📈 ]` **Academic Spec** ── Achieved **8.8/10 SGPA** in Semester 1 (B.Tech AI & ML)
 
 ---
 
-## 📜 Certifications & Participation
+### 📜 SECURITY KEYS // CREDENTIALS
 
-- **LLM for Young Developers: Foundational Course** — IndiaAI · Feb 2026
-- **Certificate of Extension Work (DLLE)** — University of Mumbai · Mar 2026
-- **Participant Certificate** — MegaHack 6.0 National Hackathon, SJCEM · 2026
-- **Certificate of Participation** — Anveshnam Inter-Collegiate Paper Presentation, SJCEM · 2026
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=iamkorvynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=iamkorvynn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF" width="49%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
-
-</div>
+- 🌐 **LLM for Young Developers: Foundational Course** ── IndiaAI (Feb 2026)
+- 🎓 **Extension Work Certificate (DLLE)** ── University of Mumbai (Mar 2026)
+- 🎟️ **MegaHack 6.0 National Hackathon** ── Participant Credentials
+- 🎤 **Anveshnam Inter-Collegiate Presentation** ── Presenter Credentials
 
 ---
 
-## 🏅 GitHub Trophies
+### 📊 ANALYTICS DASHBOARD // METRICS
+
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=iamkorvynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=iamkorvynn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy-tawny.vercel.app/?username=iamkorvynn&theme=discord&no-frame=true&column=3&margin-w=15&row=2" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=iamkorvynn&theme=discord&no-frame=true&column=7&margin-w=10&row=1" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+#### 📈 ACTIVITY TIMELINE
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkorvynn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=E9D5FF" width="100%"/>
 
@@ -205,40 +237,30 @@ Serves as the living front door to my work — updated alongside new projects as
 
 ---
 
-## 🐍 Contribution Snake
+### 🕹️ CONTRIBUTION MATRIX // GENERATIVE SNAKE
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/iamkorvynn/iamkorvynn/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/iamkorvynn/iamkorvynn/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 ---
 
-## 🎯 Current Focus
+### 🖥️ CRITICAL CORE PROCESSES // ACTIVE THREADS
 
 ```yaml
-Learning:
-  - Advanced LLM fine-tuning & RAG architectures
-  - Distributed systems design patterns
-  - Kubernetes operators & service mesh
-
-Building:
-  - AI-powered developer tools
-  - Scalable microservice backends
-
-Exploring:
-  - Vector databases & semantic search
-  - Edge computing & serverless AI inference
-
-Open To:
-  - Internships & entry-level SWE / AI Engineering roles
-  - Impactful open-source collaborations
+[SYSTEM_STATUS]: ONLINE
+[CURRENT_THREAD]: 0x7FFA
+=========================================================
+- 🧠 LEARNING: LLM Fine-Tuning, Advanced RAG, Kubernetes
+- 🛠️ BUILDING: AI-Powered Dev Tools, Microservice Engines
+- 🌌 EXPLORING: Vector DBs, Edge AI Inference, LangGraph
+- 📡 OPEN TO: Internships, SWE Roles, Freelance Contracts
+=========================================================
 ```
 
 ---
 
-## 🔗 Connect With Me
+### 📡 CONNECT PROTOCOLS // BEACON
 
 <div align="center">
 
@@ -247,11 +269,8 @@ Open To:
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkorvynn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://korvyn-dev.vercel.app)
 
-</div>
-
----
-
-<div align="center">
+<br/>
+<br/>
 
 *"Code is poetry written in logic."*
 
