@@ -176,10 +176,10 @@ Serves as the living front door to my work — updated alongside new projects as
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamkorvynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkorvynn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=iamkorvynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E9D5FF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=iamkorvynn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakLabel=E9D5FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamkorvynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="50%"/>
 
 </div>
 
@@ -189,7 +189,7 @@ Serves as the living front door to my work — updated alongside new projects as
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamkorvynn&theme=discord&no-frame=true&column=7&margin-w=10&row=1" width="100%"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=iamkorvynn&theme=discord&no-frame=true&column=7&margin-w=10&row=1" width="100%"/>
 
 </div>
 
